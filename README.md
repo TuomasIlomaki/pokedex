@@ -1,2 +1,2 @@
 # pokedex
- Pokedex App created woth React.js. App fetches data from "pokeapi.co".
+ Pokedex App created with React.js. App fetches data from "pokeapi.co".
